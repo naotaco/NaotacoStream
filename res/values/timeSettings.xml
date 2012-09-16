@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="timeSettings">
+        <item>Off</item>
+        <item>30Sec.</item>
+        <item>1Min.</item>
+        <item>3Min.</item>
+        <item>5Min.</item>
+    </string-array>
+
+</resources>
